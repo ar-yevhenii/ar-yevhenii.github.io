@@ -60,7 +60,7 @@ I am pursuing a **Bachelor** of Science in **Computer Science** at the National 
 ## 🤖 Machine Learning & AI
 
 - Exploratory Data Analysis (EDA)
-- Image Classification, NLP,RAG
+- Image Classification, NLP, RAG
 - Time Series Clustering, Transfer Learning, Object Detection, Generative Models, Text Classification
 - ML Algorithms: Linear Models, Decision Trees, SVM, Clustering, Ensemble Methods
 
