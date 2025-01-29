@@ -1,45 +1,78 @@
 ---
+
 permalink: /
 title: "👋🏼 Welcome to my page, I'm Yevhenii!"
 excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+author\_profile: true
+redirect\_from:
+
+- /about/
+- /about.html
+
 ---
 
+{: .align-right width="300px"}
+👨🏻‍💻 I'm a Backend and AI Engineer with experience in developing high-performance systems.
 
+🔬 My expertise lies in building and integrating backend services, as well as applying AI/ML techniques for real-world applications.
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+📚 I am currently working on AI-driven financial applications and backend systems development.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
-
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
-
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📽️ I am passionate about problem-solving, continuous learning, and contributing to open-source projects.
 
 # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
+## 🖥 Backend Engineering
 
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
+I have been working as a **Backend Engineer** at JSC “Ukrposhta” for over two years, focusing on:
 
-## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
+- Development of an **Order Management System (OMS)**;
+- Integration of OMS with the **State Fiscal Service** using a FastAPI wrapper for a legacy Java project;
+- Development of a **Warehouse Management System (WMS)**;
+- Building REST APIs using **FastAPI and Flask**.
 
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+## 🤖 AI Engineering
 
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
+Currently, I work as an **AI Engineer** at CGS-team, where I develop AI-powered financial solutions:
 
-## 👨🏻‍🔬 Professional Experience
-Currently I am working as a **Student Researcher** at the Reliable Multimodal AI Lab at the TU Darmstadt under the supervision of Prof. Marcus Rohrbach working on **Generative Video-Language Modelling**.
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I worked on dynamic traffic flow forecasting using Graph Neural Networks.
+- Building a **Retrieval-Augmented Generation (RAG) financial service** integrating a vector database with the OpenAI API;
+- Developing **FastAPI-based APIs** for RAG applications;
+- Deploying applications on **Heroku cloud platform**.
 
-## 📚 Teaching and Community Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+## 🎓 Education
+
+I am pursuing a **Bachelor of Engineering** in **Biomedical Engineering** at the **National Technical University of Ukraine 'Kyiv Polytechnic Institute' (2021-2025)**, specializing in:
+
+- **Intelligent data analysis**;
+- **Machine Learning (ML) and Deep Learning (DL)**.
+
+# Technical Skills
+
+## 🛠 Programming Languages & Libraries
+
+- **Languages:** Python, SQL, HTML/CSS
+- **Additional Languages:** Java, C, C++
+- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning & AI:** Scikit-learn, PyTorch, Keras, OpenCV, Pillow, Albumentations, NLTK, OpenAI API
+
+## 🤖 Machine Learning & AI
+
+- Exploratory Data Analysis (**EDA**)
+- **Image Classification**, **NLP**, **RAG**
+- **Time Series Clustering**, **Transfer Learning**, **Object Detection**, **Generative Models**, **Text Classification**
+- **ML Algorithms:** Linear Models, Decision Trees, SVM, Clustering, Ensemble Methods
+
+## ☁ Cloud & DevOps
+
+- **Cloud Services:** AWS, Docker, Heroku
+- **Backend Development:** Flask, FastAPI, Gunicorn, WebSockets
+- **ERP Systems:** Frappe, ERPNext
+- **Version Control:** Git
+- **Operating Systems:** Linux
+
+Feel free to reach out for collaboration, open-source contributions, or just to connect!
+
+
 
 
 
