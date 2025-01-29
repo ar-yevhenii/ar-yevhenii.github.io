@@ -12,8 +12,8 @@ body {
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
-  // font-family: $global-font-family;
-  font-family: 'Roboto', monospace;
+  font-family: $global-font-family;
+  // font-family: 'Roboto', monospace;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -30,8 +30,8 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  // font-family: $header-font-family;
-  font-family: 'Roboto', monospace;
+  font-family: $header-font-family;
+  // font-family: 'Roboto', monospace;
   font-weight: bold;
 }
 
