@@ -12,6 +12,7 @@ redirect\_from:
 ---
 
 {: .align-right width="300px"}
+
 👨🏻‍💻 I'm a Backend and AI Engineer with experience in developing high-performance systems.
 
 ⚙️ My competence lies in building and integrating backend services, as well as applying AI/ML techniques for real-world applications.
@@ -33,7 +34,7 @@ Currently, I work as a **Backend Engineer** at JSC “Ukrposhta” for two years
 
 ## ⚛ AI Engineering
 
-I have been working as an **AI Engineer** at CGS-team, where I develop AI-powered financial solutions:
+I have been working as an **AI Engineer** at CGS-team, where I developed AI-powered financial solutions:
 
 - Building a Retrieval-Augmented Generation **(RAG)** financial service integrating a vector database with the OpenAI API;
 - Developing FastAPI-based APIs for RAG application;
