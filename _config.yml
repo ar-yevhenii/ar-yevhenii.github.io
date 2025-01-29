@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   # Biographic information
-  avatar           : "me.jpg"
+  avatar           : "Profile_pic2.png"
   name             : "Yevhenii Artemenko"
   bio              : "Backend / AI Engineer. Experienced in developing Order and Warehouse Management Systems, creating RAG architectures, integrating legacy systems with modern API"
   location         : "Kyiv, Ukraine"
