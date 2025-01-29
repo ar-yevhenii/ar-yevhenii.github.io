@@ -52,10 +52,11 @@ I am pursuing a **Bachelor** of Science in **Computer Science** at the National 
 
 ## 🛠 Programming Languages & Libraries
 
-- Languages: Python, SQL, HTML/CSS
+- Programming Languages: Python, SQL, HTML/CSS
 - Additional Languages: JavaScript, Java, C, C++
 - Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn
 - Machine Learning & AI: Scikit-learn, PyTorch, Keras, OpenCV, Pillow, Albumentations, NLTK, OpenAI API
+- Languages: English (Upper-Intermediate), Ukrainian (Native)
 
 ## 🤖 Machine Learning & AI
 
