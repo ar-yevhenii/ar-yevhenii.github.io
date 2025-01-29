@@ -42,7 +42,7 @@ I have been working as an **AI Engineer** at CGS-team, where I developed AI-powe
 
 ## 🎓 Education
 
-I am pursuing a **Bachelor** of Engineering in **Biomedical Engineering** at the National Technical University of Ukraine 'Kyiv Polytechnic Institute' (2021-2025), specializing in:
+I am pursuing a **Bachelor** of Science in **Computer Science** at the National Technical University of Ukraine 'Kyiv Polytechnic Institute' (2021-2025), specializing in:
 
 - Intelligent data analysis;
 - Machine Learning and Deep Learning.
