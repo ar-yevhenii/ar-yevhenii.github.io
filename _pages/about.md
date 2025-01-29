@@ -70,6 +70,6 @@ I am pursuing a **Bachelor** of Engineering in **Biomedical Engineering** at the
 - Flask, FastAPI, Gunicorn, WebSockets
 - Frappe, ERPNext
 - Git
-- Linux
+- Linux 
 
 Feel free to reach out for collaboration, open-source contributions, or just to connect!
