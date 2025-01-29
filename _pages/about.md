@@ -71,12 +71,3 @@ I am pursuing a **Bachelor of Engineering** in **Biomedical Engineering** at the
 - **Operating Systems:** Linux
 
 Feel free to reach out for collaboration, open-source contributions, or just to connect!
-
-
-
-
-
-
-
-
-
