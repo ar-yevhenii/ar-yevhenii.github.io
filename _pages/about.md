@@ -24,7 +24,7 @@ redirect\_from:
 
 ## 🖥 Backend Engineering
 
-Currently, I work as a **Backend Engineer** at JSC “Ukrposhta” for two years, focusing on:
+Currently, I have been working as a **Backend Engineer** at JSC “Ukrposhta” for two years, focusing on:
 
 - Development of an **Order Management System (OMS)**;
 - Integration of OMS with the State Fiscal Service using a FastAPI wrapper for a legacy Java project;
@@ -34,7 +34,7 @@ Currently, I work as a **Backend Engineer** at JSC “Ukrposhta” for two years
 
 ## ⚛ AI Engineering
 
-I have been working as an **AI Engineer** at CGS-team, where I developed AI-powered financial solutions:
+I have been working part-time as a junior **AI Engineer** at CGS-team, where I developed AI-powered financial solutions:
 
 - Building a Retrieval-Augmented Generation **(RAG)** financial service integrating a vector database with the OpenAI API;
 - Developing FastAPI-based APIs for RAG application;
