@@ -36,9 +36,10 @@ Currently, I have been working as a **Backend Engineer** at JSC “Ukrposhta” 
 
 I have been working part-time as a junior **AI Engineer** at CGS-team, where I developed AI-powered financial solutions:
 
-- Building a Retrieval-Augmented Generation **(RAG)** financial service integrating a vector database with the OpenAI API;
-- Developing FastAPI-based APIs for RAG application;
-- Deploying applications on Heroku cloud platform.
+- Developed and maintained a Flask-based API for summarizing financial memos using GPT-4o.
+- Participated in the building a **RAG** system integrating a vector database with the OpenAI API to enhance financial data retrieval and processing.
+- Deployed AI-driven applications on Heroku cloud platform for scalable and reliable access.
+
 
 ## 🎓 Education
 
