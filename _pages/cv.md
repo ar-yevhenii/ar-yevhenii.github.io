@@ -7,3 +7,4 @@ redirect_from:
   - /resume
 ---
 
+[Resume](Resume.pdf)
