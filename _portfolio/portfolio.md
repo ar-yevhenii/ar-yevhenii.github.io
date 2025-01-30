@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "portfolio"
+permalink: /portfolio/
+author_profile: true
+redirect_from:
+  - /portfolio
+---
+
 ## 📦 Warehouse Management System (WMS)
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer
