@@ -7,6 +7,8 @@ redirect_from:
   - /portfolio
 ---
 
+<br>
+
 ## 📦 Warehouse Management System (WMS)
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer
@@ -21,9 +23,12 @@ Key Components:
 - **Inventoryzation**: Integrated warehouse inventory system;
 - **System flexibility**: Adaptability of the system for different warehouses, which made it possible to use the WMS core for other Ukrposhta tasks.
 
+<br>
+
 ![Warehouse Management System](/images/uis.png)
 
 ---
+<br>
 
 ## 🛒Order Management System (OMS)
 **Company:** JSC "Ukrposhta"  
@@ -39,26 +44,28 @@ Key Components:
 - **MIS**: Working with prescriptions for medicines in the Medical Information System SKARB;
 - **Reporting**: processing large amounts of data to automate reporting.
 
----
+<br>
 
 ![Order Management System](/images/oms.png)
 
 ---
-
-<!-- ---
+<br>
 
 ## 🏦 Fiscalization Service
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer  
 
 - Integrated OMS with **State Fiscal Service** via FastAPI.
-- Enabled **online & offline fiscalization, receipt cancellation, and Z-report generation**.
+- Enabled online & offline fiscalization, receipt cancellation, and Z-report generation.
+- The project integrates with a Java library using the **JPype library** to handle RRO operations.
 
-![Fiscalization Service](path/to/fiscalization-image.png)
+<br>
+
+![Fiscalization Service](/images/fiscalization.png)
 
 ---
 
-## 📄 Summarization API
+<!-- ## 📄 Summarization API
 **Company:** CGS-team  
 **Position:** Junior AI Engineer  
 **Date:** 04/2023 - 12/2023  
