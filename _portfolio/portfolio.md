@@ -37,7 +37,7 @@ The system is built using the Frappe framework, which is a full-stack web applic
 Key Components:
 - **Order Management**: process the entire order cycle from creation on the web store to receipt by the customer;
 - **Integration with External APIs**: FastAPI-based APIs for integration with ERP systems, Logistics management system, Web Store;
-- **MIS**: Working with prescriptions for medicines in the Medical Information System SKARB;
+- **MIS**: Working with prescriptions for medicines in the Medical Information System [SKARB](https://skarb.ua/);
 - **Reporting**: processing large amounts of data to automate reporting.
 
 
@@ -50,6 +50,7 @@ Key Components:
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer  
 
+Key Components:
 - Integrated OMS with **[State Fiscal Service](https://tax.gov.ua/)** via FastAPI;
 - Enabled online & offline fiscalization, receipt cancellation, and Z-report generation;
 - The project integrates with a Java library using the **JPype library** to handle RRO operations.
@@ -65,7 +66,7 @@ Key Components:
 **Company:** CGS-team  
 **Position:** Junior AI Engineer
 
-This project is a Flask-based API for summarizing financial memos using GPT-4o. It processes PDF files to extract and summarize relevant financial information into structured JSON responses.
+This project is a **Flask-based** API for summarizing financial memos using **GPT-4o**. It processes PDF files to extract and summarize relevant financial information into structured JSON responses.
 
 Key Features:
 - Produce structured financial memos;
@@ -80,15 +81,21 @@ Key Features:
 
 ---
 <br>
-<!-- 
-## 💬 RAG System for Live Chat
+
+## ֎ RAG System
 **Company:** CGS-team  
-**Position:** Junior AI Engineer  
+**Position:** Junior AI Engineer
 
-- Developed a **RAG-based live chat system** with WebSockets.
-- Integrated **document upload, embedding, and retrieval**.
-- Enhanced **context-aware responses** with OpenAI API.
+My second project in CGS-team is an application that leverages **FastAPI**, **Pinecone**, and OpenAI to provide document embedding and real-time chat functionalities. The application is designed to handle document uploads, process and embed the content using **HuggingFace** embeddings, and store the embeddings in a Pinecone vector store.
 
-![RAG System](path/to/rag-image.png)
+Additionally, it features a WebSocket-based chat interface that allows users to interact with an AI assistant, which generates responses based on the context retrieved from the embedded documents.
 
---- -->
+Technologies used:
+- **Pinecone**: For storing and querying document embeddings;
+- **OpenAI**: For generating enhanced context-aware responses;
+- **HuggingFace**: For using all-MiniLM-L6-v2 to embed documents and queries;
+- WebSockets: For real-time communication in the chat interface;
+- FastAPI: For building the web application and handling HTTP requests.
+
+![RAG System](/images/rag.png)
+
