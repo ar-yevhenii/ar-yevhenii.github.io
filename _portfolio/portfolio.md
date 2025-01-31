@@ -94,8 +94,8 @@ Technologies used:
 - **Pinecone**: For storing and querying document embeddings;
 - **OpenAI**: For generating enhanced context-aware responses;
 - **HuggingFace**: For using all-MiniLM-L6-v2 to embed documents and queries;
-- WebSockets: For real-time communication in the chat interface;
-- FastAPI: For building the web application and handling HTTP requests.
+- **WebSockets**: For real-time communication in the chat interface;
+- **FastAPI**: For building the web application and handling HTTP requests.
 
 ![RAG System](/images/rag.png)
 
