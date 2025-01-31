@@ -7,13 +7,11 @@ redirect_from:
   - /portfolio
 ---
 
-<br>
-
 ## 📦 Warehouse Management System (WMS)
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer
 
-Built Frappe-based **WMS for pharmaceutical warehouse management**.
+During my work at Ukrposhta, I developed Frappe-based WMS for [pharmaceutical](https://apteka.ukrposhta.ua/) warehouse management.
 
 Key Components:
 - **Stock control**: Comprehensive control over the quantity of goods in the warehouse, their transfers and replenishment;
@@ -22,8 +20,6 @@ Key Components:
 - **UIS**: Integrating with the [UIS system](https://uislab.com/uk/) for sorting and processing orders, including preparing and packing orders in UIS line.
 - **Inventoryzation**: Integrated warehouse inventory system;
 - **System flexibility**: Adaptability of the system for different warehouses, which made it possible to use the WMS core for other Ukrposhta tasks.
-
-<br>
 
 ![Warehouse Management System](/images/uis.png)
 
@@ -34,7 +30,7 @@ Key Components:
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer
 
-During my work at Ukrposhta I developed two complex systems for managing orders, products, and related operations such as reporting and integration with External APIs.
+Also were developed complex systems for managing orders, products, and related operations such as reporting and integration with external APIs. The systems were designed to streamline backend processes for web stores [Ukrposhta Pharmacy](https://apteka.ukrposhta.ua/) and [Postmark](https://postmark.ukrposhta.ua/).
 
 The system is built using the Frappe framework, which is a full-stack web application framework written in Python and JavaSctipt.
 
@@ -44,7 +40,6 @@ Key Components:
 - **MIS**: Working with prescriptions for medicines in the Medical Information System SKARB;
 - **Reporting**: processing large amounts of data to automate reporting.
 
-<br>
 
 ![Order Management System](/images/oms.png)
 
@@ -55,28 +50,37 @@ Key Components:
 **Company:** JSC "Ukrposhta"  
 **Position:** Python Backend Engineer  
 
-- Integrated OMS with **State Fiscal Service** via FastAPI.
-- Enabled online & offline fiscalization, receipt cancellation, and Z-report generation.
+- Integrated OMS with **[State Fiscal Service](https://tax.gov.ua/)** via FastAPI;
+- Enabled online & offline fiscalization, receipt cancellation, and Z-report generation;
 - The project integrates with a Java library using the **JPype library** to handle RRO operations.
 
-<br>
 
 ![Fiscalization Service](/images/fiscalization.png)
 
 ---
+<br>
 
-<!-- ## 📄 Summarization API
+
+## 📄 Summarization API
 **Company:** CGS-team  
-**Position:** Junior AI Engineer  
-**Date:** 04/2023 - 12/2023  
+**Position:** Junior AI Engineer
 
-- Built a **Flask API** for summarizing **financial memos** with GPT-4o.
-- Processes **PDF files** and extracts structured **JSON responses**.
+This project is a Flask-based API for summarizing financial memos using GPT-4o. It processes PDF files to extract and summarize relevant financial information into structured JSON responses.
 
-![Summarization API](path/to/summarization-image.png)
+Key Features:
+- Produce structured financial memos;
+- Generates summaries and extracts stock tickers;
+- Extracts key sections such as thesis summary, business model, exit value, moat, risks, stakeholders, and bear case;
+- Provides detailed verbose output including cost and token usage;
+- Supports different environments (dev and prod) for OpenAI API keys;
+- Provides a Flask-based API for interacting with the memo summarization.
+
+
+![Summarization API](/images/summarization.png)
 
 ---
-
+<br>
+<!-- 
 ## 💬 RAG System for Live Chat
 **Company:** CGS-team  
 **Position:** Junior AI Engineer  
