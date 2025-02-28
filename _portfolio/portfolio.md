@@ -66,15 +66,14 @@ Key Components:
 **Company:** CGS-team  
 **Position:** Junior AI Engineer
 
-This project is a **Flask-based** API for summarizing financial memos using **GPT-4o**. It processes PDF files to extract and summarize relevant financial information into structured JSON responses.
+This project is a Flask-based API for extracting and summarizing financial memos and articles using LLMs, particularly GPT-4o. The system processes both PDF files and URLs, converting extracted information into structured JSON responses. Implemented a web scraping module for automated article retrieval, parsing, and content extraction from Substack, ensuring accurate data collection.
 
 Key Features:
-- Produce structured financial memos;
-- Generates summaries and extracts stock tickers;
-- Extracts key sections such as thesis summary, business model, exit value, moat, risks, stakeholders, and bear case;
-- Provides detailed verbose output including cost and token usage;
-- Supports different environments (dev and prod) for OpenAI API keys;
-- Provides a Flask-based API for interacting with the memo summarization.
+- **LLM Integration**: Utilized GPT-4o for summarizing articles, extracting company tickers, classifying sectors, and identifying topics$;
+- **Web Scraping**: Automated retrieval of articles from Substack using BeautifulSoup and Selenium;
+- **Flask Framework**: Built the API using Flask for handling requests;
+- **Embeddings**: Employed embeddings for efficient search and retrieval of relevant content;
+- **Structured Outputs**: Generated structured JSON responses.
 
 
 ![Summarization API](/images/summarization.png)
