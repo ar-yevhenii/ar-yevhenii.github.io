@@ -13,11 +13,11 @@ redirect\_from:
 
 {: .align-right width="300px"}
 
-👨🏻‍💻 I'm a Backend and AI Engineer with experience in developing high-performance systems.
+I'm a Backend and AI Engineer with experience in developing high-performance systems.
 
-⚙️ My competence lies in building and integrating backend services, as well as applying AI/ML techniques for real-world applications.
+My competence lies in building and integrating backend services, as well as applying AI/ML techniques for real-world applications.
 
-📚 I am currently working on backend systems development.
+I am currently working on backend systems development.
 
 
 # Selected Experience
@@ -26,9 +26,9 @@ redirect\_from:
 
 Currently, I have been working as a **Backend Engineer** at JSC “Ukrposhta” for two years, focusing on:
 
-- Development of an **Order Management System (OMS)**;
-- Integration of OMS with the State Fiscal Service using a FastAPI wrapper for a legacy Java project;
 - Development of a **Warehouse Management System (WMS)**;
+- Development of an **Order Management Systems (OMS)**;
+- Integration of OMS with the State Fiscal Service using FastAPI;
 - Integration of the developed core WMS for various projects;
 - Building REST APIs using FastAPI and Flask.
 
@@ -36,8 +36,8 @@ Currently, I have been working as a **Backend Engineer** at JSC “Ukrposhta” 
 
 I have been working part-time as a junior **AI Engineer** at CGS-team, where I developed AI-powered financial solutions:
 
-- Developed and maintained a Flask-based API for summarizing financial memos using GPT-4o.
-- Participated in the building a **RAG** system integrating a vector database with the OpenAI API to enhance financial data retrieval and processing.
+- Developed a Flask-based API for scrapping and summarizing financial memos and articles from Substack using LLMs;
+- Participated in the building a **RAG** system integrating with chatbot to enhance financial data retrieval and processing;
 - Deployed AI-driven applications on Heroku cloud platform for scalable and reliable access.
 
 
@@ -49,29 +49,22 @@ I am pursuing a **Bachelor** of Science in **Computer Science** at the National 
 - Machine Learning and Deep Learning.
 
 
-# Technical Skills
+# 🛠 Technical Skills
 
 ## 🛠 Programming Languages & Libraries
 
-- Programming Languages: Python, SQL, HTML/CSS
-- Additional Languages: JavaScript, Java, C, C++
-- Data Science Libraries: NumPy, Pandas, Matplotlib, Seaborn
-- Machine Learning & AI: Scikit-learn, PyTorch, Keras, OpenCV, Pillow, Albumentations, NLTK, OpenAI API
-- Languages: English (Upper-Intermediate), Ukrainian (Native)
+- Programming Languages: Python, SQL, JavaScript
+- Additional Languages: Java, C, C++, JavaScript, React
+- Frameworks & Libraries: Frappe, PyTorch, LlamaIndex, LangChain, FastAPI, OpenCV, Scikitlearn, Huggingface, Pandas, NumPy, Matplotlib, Seaborn, ERPNext
+- Technologies & Tools: LLMs, Computer Vision, Prompt Engineering, EDA, API Development
+(FastAPI, Flask), Docker, AWS, Heroku, Linux
+- DevOps: Docker containerization, CI/CD pipeline optimization, server performance tuning.
 
-## 🤖 Machine Learning & AI
 
-- Exploratory Data Analysis (EDA)
-- Image Classification, NLP, RAG
-- Time Series Clustering, Transfer Learning, Object Detection, Generative Models, Text Classification
-- ML Algorithms: Linear Models, Decision Trees, SVM, Clustering, Ensemble Methods
+## 👨🏻‍💻 Leadership & Mentorship
+- Team communication, technical workshops, crisis management.
 
-## ☁ Other
 
-- AWS, Docker, Heroku
-- Flask, FastAPI, Gunicorn, WebSockets
-- Frappe, ERPNext
-- Git
-- Linux 
+
 
 Feel free to reach out for collaboration, open-source contributions, or just to connect!
