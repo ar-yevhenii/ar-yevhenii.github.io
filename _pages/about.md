@@ -49,7 +49,7 @@ I am pursuing a **Bachelor** of Science in **Computer Science** at the National 
 - Machine Learning and Deep Learning.
 
 
-# 🛠 Technical Skills
+# Technical Skills
 
 ## 🛠 Programming Languages & Libraries
 
